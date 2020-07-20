@@ -1,0 +1,30 @@
+
+
+.menu{
+	text-align: center;
+	padding-top: 10px;
+}
+
+.my-row {
+	border: 3px solid red;
+}
+.my-col{
+	border: 3px solid black;
+	margin: 20px 20px 20px 20px;
+	height: 300px;
+	width: 200px;
+	box-sizing: border-box;
+	background-color: gray;
+	padding: 0px;
+	max-width: : 992px;
+	min-width: 300px;
+
+	max-height: 250px;
+	min-height: 200px;
+	
+
+}
+.h3{
+	text-align: center;
+}
+
